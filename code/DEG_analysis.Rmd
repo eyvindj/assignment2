@@ -196,7 +196,7 @@ if (params$plot_volcano) {
           panel.grid = element_blank())
 
   # Convert ggplot to plotly for interactivity
-  # ggplotly(p)
+   #ggplotly(p)
 }
 ```
 
