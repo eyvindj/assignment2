@@ -3,9 +3,9 @@ title: "Rmarkdown - PCA example"
 author: "R - course"
 date: "`r format(Sys.time(), '%d %B, %Y')`"
 output:
+  pdf_document: default
   html_document:
     df_print: paged
-  pdf_document: default
 fontsize: 5pt
 editor_options: 
   chunk_output_type: console

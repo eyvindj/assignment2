@@ -4,7 +4,7 @@ author: "Alen Lovric"
 date: "`r format(Sys.time(), '%d %B, %Y')`"
 output:
   pdf_document: default
-  html_document: default
+  html_document: 
 subtitle: DEG analysis with DESeq2
 params:
   data_file: ../data/counts.txt
