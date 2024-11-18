@@ -5,7 +5,7 @@
 # Session Data files
 .RData
 .RDataTmp
-assignment2.Rproj
+
 
 # User-specific files
 .Ruserdata
@@ -21,6 +21,7 @@ assignment2.Rproj
 
 # RStudio files
 .Rproj.user/
+assignment2.Rproj
 
 
 # produced vignettes
