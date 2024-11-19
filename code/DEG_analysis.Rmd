@@ -3,8 +3,8 @@ title: "Reproducible research with <span style='color:blue; text-decoration: und
 author: "Alen Lovric"
 date: "`r format(Sys.time(), '%d %B, %Y')`"
 output:
+  html_document:
   pdf_document: default
-  html_document: 
 subtitle: DEG analysis with DESeq2
 params:
   data_file: ../data/counts.txt
